@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/runner/work/mqttclient/mqttclient/build/lib/libmc-network.a "CMakeFiles/mc-network_static.dir/nettype_tcp.c.o" "CMakeFiles/mc-network_static.dir/nettype_tls.c.o" "CMakeFiles/mc-network_static.dir/network.c.o"
+/usr/bin/ranlib /home/runner/work/mqttclient/mqttclient/build/lib/libmc-network.a

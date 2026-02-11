@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/runner/work/mqttclient/mqttclient/build/lib/libmc-log.a "CMakeFiles/mc-log_static.dir/fifo.c.o" "CMakeFiles/mc-log_static.dir/format.c.o" "CMakeFiles/mc-log_static.dir/salof.c.o" "CMakeFiles/mc-log_static.dir/arch/linux/arch.c.o"
+/usr/bin/ranlib /home/runner/work/mqttclient/mqttclient/build/lib/libmc-log.a

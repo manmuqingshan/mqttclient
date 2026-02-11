@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/runner/work/mqttclient/mqttclient/build/lib/libmc-common.a "CMakeFiles/mc-common_static.dir/mqtt_list.c.o" "CMakeFiles/mc-common_static.dir/random.c.o"
+/usr/bin/ranlib /home/runner/work/mqttclient/mqttclient/build/lib/libmc-common.a

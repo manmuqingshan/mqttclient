@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/runner/work/mqttclient/mqttclient/build/lib/libmc-mqttclient.a "CMakeFiles/mc-mqttclient_static.dir/mqttclient.c.o"
+/usr/bin/ranlib /home/runner/work/mqttclient/mqttclient/build/lib/libmc-mqttclient.a
